@@ -1,0 +1,36 @@
+Hello, enter text here to see what your reddit post will look like.
+
+Here's an example of some reddit formatting tricks:
+**Bold**, *italic*, `code`, [link](http://redditpreview.com), ~~strikethrough~~
+
+&nbsp;
+
+>Quote
+>>Nested quote
+
+&nbsp;
+
+| Column 1   | Column 2    | Column 3     |
+|:-----------|------------:|:------------:|
+| You        |          You|     You     
+| can align  |    can align|  can align   
+| left       |        right|   center    
+
+&nbsp;
+
+---
+
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+- Unordered list
+
+1. Ordered list
+
+This is some text^(this is some superscript)
+
+\*Escape formatting\*
